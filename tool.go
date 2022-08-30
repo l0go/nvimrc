@@ -5,7 +5,6 @@ import (
 	"os"
 	"os/exec"
 	"strings"
-	//"github.com/go-git/go-git/v5"
 )
 
 var directories = [5]string{"lua", "pack", "pack/colors/start", "pack/plugins/start", "pack/syntax/start"}
@@ -23,9 +22,7 @@ func main() {
 	}
 }
 
-func Install(installDir string) {
-	root := installDir
-
+func Install(root string) {
 	err := os.Mkdir(root, os.ModePerm)
 	if err != nil {
 		fmt.Errorf("unable to generate directory: %w", err)
