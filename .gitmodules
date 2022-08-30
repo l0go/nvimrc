@@ -1,0 +1,48 @@
+[submodule "pack/colors/start/rose-pine"]
+	path = pack/colors/start/rose-pine
+	url = https://github.com/rose-pine/neovim
+[submodule "pack/plugins/start/fzf.vim"]
+	path = pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "pack/plugins/start/fzf"]
+	path = pack/plugins/start/fzf
+	url = https://github.com/junegunn/fzf
+[submodule "pack/plugins/start/coc.nvim"]
+	path = pack/plugins/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+[submodule "pack/plugins/start/galaxyline.nvim"]
+	path = pack/plugins/start/galaxyline.nvim
+	url = https://github.com/NTBBloodbath/galaxyline.nvim
+[submodule "pack/plugins/start/plenary.nvim"]
+	path = pack/plugins/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "pack/plugins/start/vim-surround"]
+	path = pack/plugins/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/syntax/start/bnf.vim"]
+	path = pack/syntax/start/bnf.vim
+	url = https://github.com/vim-scripts/bnf.vim/
+[submodule "pack/syntax/start/nim.vim"]
+	path = pack/syntax/start/nim.vim
+	url = https://github.com/zah/nim.vim
+[submodule "pack/syntax/start/odin.vim"]
+	path = pack/syntax/start/odin.vim
+	url = https://github.com/Tetralux/odin.vim
+[submodule "pack/syntax/start/vaxe"]
+	path = pack/syntax/start/vaxe
+	url = https://github.com/jdonaldson/vaxe
+[submodule "pack/syntax/start/vim-antlr"]
+	path = pack/syntax/start/vim-antlr
+	url = https://github.com/jrozner/vim-antlr
+[submodule "pack/syntax/start/vim-elixir"]
+	path = pack/syntax/start/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir
+[submodule "pack/syntax/start/vim-jinja"]
+	path = pack/syntax/start/vim-jinja
+	url = https://github.com/lepture/vim-jinja
+[submodule "pack/syntax/start/wgsl.vim"]
+	path = pack/syntax/start/wgsl.vim
+	url = https://github.com/DingDean/wgsl.vim
+[submodule "pack/syntax/start/zig.vim"]
+	path = pack/syntax/start/zig.vim
+	url = https://github.com/ziglang/zig.vim
